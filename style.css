@@ -1,0 +1,49 @@
+body {
+    background-color: aquamarine;
+    
+}
+
+.bg-header {
+    background-image: url(https://www.purina-latam.com/sites/g/files/auxxlc391/files/styles/kraken_generic_max_width_960/public/Que_debes_saber_antes_de_adoptar_un_gatito.jpg?itok=FAGJdK4f);
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: absolute;
+    width: 100vw;
+    height: 80vh;
+    margin-bottom: 10px;
+
+}
+
+.encabezado {
+  background-color: antiquewhite;
+  width: 100vw;
+  height: 60px;
+  text-align: center;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+img {
+    width: 400px;
+    height: 300px;
+    margin: 10px;
+}
+
+section {
+    display: inline;
+    width: 100%;
+    height: 500px;
+    margin: 10px;
+
+}
+.section img{
+    float: left;
+
+}
+
+.section p {
+    width: 400px;
+    height: 300px;
+
+}
